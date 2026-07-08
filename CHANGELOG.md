@@ -1,3 +1,12 @@
+## [7.22.1](https://github.com/Torwent/SRL-T/compare/v7.22.0...v7.22.1) (2026-07-08)
+
+
+### Bug Fixes
+
+* Update README.md ([2f9cfba](https://github.com/Torwent/SRL-T/commit/2f9cfba6942362f9dc4278de810d8cbfc6509685))
+
+
+
 # [7.22.0](https://github.com/Torwent/SRL-T/compare/v7.21.56...v7.22.0) (2026-07-08)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * more renames ([1ae2def](https://github.com/Torwent/SRL-T/commit/1ae2def3e041577d420bd6fee71b0aab5909d584))
-
-
-
-## [7.21.53](https://github.com/Torwent/SRL-T/compare/v7.21.52...v7.21.53) (2026-07-05)
-
-
-### Bug Fixes
-
-* more renames ([8caa4ef](https://github.com/Torwent/SRL-T/commit/8caa4efdb619c24f0c507083635de50ab0ebff91))
 
 
 
