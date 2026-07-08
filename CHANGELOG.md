@@ -1,3 +1,12 @@
+## [7.22.2](https://github.com/Torwent/SRL-T/compare/v7.22.1...v7.22.2) (2026-07-08)
+
+
+### Bug Fixes
+
+* remove all doc images ([a5676ef](https://github.com/Torwent/SRL-T/commit/a5676efcda075545a2b1aed6c323ed4a7c5a9589))
+
+
+
 ## [7.22.1](https://github.com/Torwent/SRL-T/compare/v7.22.0...v7.22.1) (2026-07-08)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * webgraphs ([7242dae](https://github.com/Torwent/SRL-T/commit/7242dae5420f1a37a1109b64baffbe6ebfcb8d37))
-
-
-
-## [7.21.54](https://github.com/Torwent/SRL-T/compare/v7.21.53...v7.21.54) (2026-07-05)
-
-
-### Bug Fixes
-
-* more renames ([1ae2def](https://github.com/Torwent/SRL-T/commit/1ae2def3e041577d420bd6fee71b0aab5909d584))
 
 
 
