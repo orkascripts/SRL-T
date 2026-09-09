@@ -1,3 +1,6 @@
+Release notes for versions after the last entry below are published on the GitHub Releases page:
+https://github.com/orkascripts/SRL-T/releases
+
 ## [7.22.2](https://github.com/Torwent/SRL-T/compare/v7.22.1...v7.22.2) (2026-07-08)
 
 

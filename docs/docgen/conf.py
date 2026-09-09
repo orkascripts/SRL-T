@@ -168,7 +168,7 @@ texinfo_documents = [
 
 
 # -- Extension configuration -------------------------------------------------
-intersphinx_mapping = {"WaspLib": ("https://torwent.github.io/WaspLib", None)}
+intersphinx_mapping = {"WaspLib": ("https://orkascripts.github.io/WaspLib", None)}
 intersphinx_disabled_reftypes = ["*"]
 
 myst_enable_extensions = ["linkify", "colon_fence", "substitution"]
