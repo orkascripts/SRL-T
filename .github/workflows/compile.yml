@@ -17,4 +17,4 @@ jobs:
         shell: bash
         run: |
           curl --retry 5 -L -o Simba.exe ${{ env.simba-download }}
-          echo '{$I main.simba}' > test.simba && ./Simba.exe --compile test.simba
+          echo '{$I osr.simba}' > test.simba && ./Simba.exe --compile test.simba
