@@ -547,6 +547,9 @@ begin
   SetLength(Result.Paths, Length(Result.Nodes));
   SetLength(Result.Names, Length(Result.Nodes));
 
+  //an area with no walkable space has no nodes, and nothing to connect doors to
+  if Result.Nodes = [] then Exit;
+
   //Connect doornodes to nearest node
   nodes := Copy(Result.Nodes);
   nodesTree.Init(nodes);
