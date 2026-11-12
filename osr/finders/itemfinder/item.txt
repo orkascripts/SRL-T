@@ -1230,20 +1230,20 @@ mithril pickaxe
 noted mithril pickaxe
 rune pickaxe
 noted rune pickaxe
-bronze sword
-noted bronze sword
-iron sword
-noted iron sword
-steel sword
-noted steel sword
-black sword
-noted black sword
-mithril sword
-noted mithril sword
-adamant sword
-noted adamant sword
-rune sword
-noted rune sword
+bronze shortsword
+noted bronze shortsword
+iron shortsword
+noted iron shortsword
+steel shortsword
+noted steel shortsword
+black shortsword
+noted black shortsword
+mithril shortsword
+noted mithril shortsword
+adamant shortsword
+noted adamant shortsword
+rune shortsword
+noted rune shortsword
 bronze longsword
 noted bronze longsword
 iron longsword
@@ -5868,8 +5868,8 @@ white mace
 noted white mace
 white magic staff
 noted white magic staff
-white sword
-noted white sword
+white shortsword
+noted white shortsword
 white longsword
 noted white longsword
 white 2h sword
@@ -6718,7 +6718,7 @@ gadderhammer
 noted gadderhammer
 boxing gloves
 boxing gloves
-wooden sword
+wooden shortsword
 wooden shield
 treasure stone
 prize key
@@ -8353,10 +8353,7 @@ noted mint cake
 aluft aloft box
 half made batta
 unfinished batta
-wizard blizzard
-noted wizard blizzard
-wizard blizzard
-noted wizard blizzard
+cocktail glass
 batta tin
 noted batta tin
 noted batta tin
@@ -8488,9 +8485,9 @@ blank fire rune
 fire rune
 noted torch
 stick
-training sword
+training shortsword
 training shield
-training bow
+training shortbow
 training arrows
 training arrows
 training arrows
@@ -8516,10 +8513,10 @@ mind shield
 noted mind shield
 mind helmet
 noted mind helmet
-desert goat horn
+goat horn
 goat horn dust
 noted goat horn dust
-noted desert goat horn
+noted goat horn
 combat potion(4)
 noted combat potion(4)
 combat potion(3)
@@ -8772,8 +8769,8 @@ hunter potion(1)
 noted hunter potion(1)
 bird snare
 box trap
-butterfly net
-noted butterfly net
+insect net
+noted insect net
 butterfly jar
 noted butterfly jar
 black warlock
@@ -9643,7 +9640,7 @@ noted ninja impling jar
 dragon impling jar
 noted dragon impling jar
 jar generator
-magic butterfly net
+magic insect net
 impling jar
 noted impling jar
 imp repellent
@@ -9842,7 +9839,7 @@ noted zamorak mix(2)
 zamorak mix(1)
 noted zamorak mix(1)
 feather
-mausoleum bridge repair
+mausoleum bridge reinforcement
 water pump
 cooking pot
 pottery wheel
@@ -10656,6 +10653,7 @@ noted box trap pack
 magic imp box pack
 noted magic imp box pack
 archaic emblem (tier 1)
+noted archaic emblem (tier 1)
 archaic emblem (tier 2)
 archaic emblem (tier 3)
 archaic emblem (tier 4)
@@ -11989,6 +11987,7 @@ reward casket (elite)
 reward casket (hard)
 reward casket (medium)
 reward casket (easy)
+granite maul
 amulet of glory
 stale baguette
 noted stale baguette
@@ -12286,8 +12285,8 @@ elder maul
 noted elder maul
 kodai wand
 noted kodai wand
-dragon sword
-noted dragon sword
+dragon shortsword
+noted dragon shortsword
 dragon hunter crossbow
 noted dragon hunter crossbow
 dinh's bulwark
@@ -13680,6 +13679,7 @@ noted super combat potion(2)
 super combat potion(1)
 noted super combat potion(1)
 noted barrows gloves
+noted berserker ring (i)
 noted dragon defender
 noted imbued guthix cape
 noted imbued zamorak cape
@@ -14042,7 +14042,6 @@ noted swift blade
 ava's assembler (l)
 fire cape (l)
 infernal cape (l)
-granite maul
 granite maul
 ornate maul handle
 noted ornate maul handle
@@ -16098,7 +16097,7 @@ dragon dagger (p)(cr)
 dragon dagger (p+)(cr)
 dragon dagger (p++)(cr)
 dragon mace (cr)
-dragon sword (cr)
+dragon shortsword (cr)
 dragon scimitar (cr)
 dragon longsword (cr)
 dragon warhammer (cr)
@@ -16656,7 +16655,7 @@ echo crystal
 noted echo crystal
 echo boots
 dizana's quiver (uncharged)
-dizana's quiver (uncharged) (l)
+dizana's quiver (l) (uncharged)
 dizana's quiver
 dizana's quiver (l)
 blessed dizana's quiver
@@ -17160,7 +17159,7 @@ imcando hammer (off-hand)
 bruma torch (off-hand)
 coagulated venom
 spider cave teleport
-araxyte venom sack
+araxyte venom sac
 jar of venom
 araxyte head
 noxious point
@@ -17522,7 +17521,7 @@ echo ahrim's robeskirt
 echo ahrim's ornament kit
 echo home teleport scroll
 raging echoes death scroll
-raging echoes npc contact scroll
+raging echoes astral contact scroll
 raging echoes nexus scroll
 raging echoes portal scroll
 raging echoes dragon trophy
@@ -17581,7 +17580,7 @@ echo ahrim's robeskirt 0
 noted echo ahrim's ornament kit
 noted echo home teleport scroll
 noted raging echoes death scroll
-noted raging echoes npc contact scroll
+noted raging echoes astral contact scroll
 noted raging echoes nexus scroll
 raging echoes rug
 noted raging echoes rug
@@ -19401,23 +19400,18 @@ demonic trident ornament kit
 noted demonic trident ornament kit
 trident of the swamp (o)
 uncharged toxic trident (o)
-noted uncharged toxic trident (o)
 trident of the swamp (e) (o)
-uncharged toxic trident (e)
-noted uncharged toxic trident (e)
+uncharged toxic trident (e) (o)
 trident of the seas (o)
 trident of the seas (full) (o)
-noted trident of the seas (full) (o)
 trident of the seas (e) (o)
 uncharged trident (e) (o)
-noted uncharged trident (e) (o)
-iban's staff
+iban's staff (o)
 iban's staff (u) (o)
 iban's staff (o)
 soulreaper axe (o)
-noted soulreaper axe (o)
-demonic slayer helmet
-demonic slayer helmet
+oathplate slayer helmet
+radiant slayer helmet
 demonic quill
 noted demonic quill
 demonic pacts dragon trophy
@@ -19427,8 +19421,8 @@ demonic pacts mithril trophy
 demonic pacts steel trophy
 demonic pacts iron trophy
 demonic pacts bronze trophy
-impish ritual kit
-noted impish ritual kit
+impish ritual scroll
+noted impish ritual scroll
 demonic pacts throne scroll
 noted demonic pacts throne scroll
 impish whistle
@@ -19458,6 +19452,835 @@ trinket of vengeance (2)
 noted trinket of vengeance (2)
 trinket of vengeance (1)
 noted trinket of vengeance (1)
+uncharged trident (o)
+oathplate slayer helmet (i)
+radiant slayer helmet (i)
+demonic pacts relic hunter (t1) armour set
+noted demonic pacts relic hunter (t1) armour set
+demonic pacts relic hunter (t2) armour set
+noted demonic pacts relic hunter (t2) armour set
+demonic pacts relic hunter (t3) armour set
+noted demonic pacts relic hunter (t3) armour set
+void melee helm (l) (broken)
+void melee helm (l) (mangled)
+void mage helm (l) (broken)
+void mage helm (l) (mangled)
+void ranger helm (l) (broken)
+void ranger helm (l) (mangled)
+void knight top (l) (broken)
+void knight top (l) (mangled)
+elite void top (l) (broken)
+elite void top (l) (mangled)
+void knight robe (l) (broken)
+void knight robe (l) (mangled)
+elite void robe (l) (broken)
+elite void robe (l) (mangled)
+void knight gloves (l) (broken)
+void knight gloves (l) (mangled)
+infernal max cape (l) (broken)
+infernal max cape (l) (mangled)
+infernal cape (l) (broken)
+infernal cape (l) (mangled)
+blood ancient sceptre (l) (broken)
+blood ancient sceptre (l) (mangled)
+ice ancient sceptre (l) (broken)
+ice ancient sceptre (l) (mangled)
+smoke ancient sceptre (l) (broken)
+smoke ancient sceptre (l) (mangled)
+shadow ancient sceptre (l) (broken)
+shadow ancient sceptre (l) (mangled)
+fighter torso (l) (broken)
+fighter torso (l) (mangled)
+dizana's quiver (l) (broken)
+dizana's quiver (l) (mangled)
+blessed dizana's quiver (l) (broken)
+blessed dizana's quiver (l) (mangled)
+dizana's max cape (l) (broken)
+dizana's max cape (l) (mangled)
+etched araxyte fang
+noted etched araxyte fang
+garlic cocktail
+bucket of bloodwood sap
+seeking arrow shaft
+seeking arrow shaft
+seeking arrow shaft
+seeking arrow shaft
+seeking arrow shaft
+seeking headless arrow
+seeking headless arrow
+seeking headless arrow
+seeking headless arrow
+seeking headless arrow
+seeking bronze arrow
+seeking bronze arrow
+seeking bronze arrow
+seeking bronze arrow
+seeking bronze arrow
+seeking iron arrow
+seeking iron arrow
+seeking iron arrow
+seeking iron arrow
+seeking iron arrow
+seeking steel arrow
+seeking steel arrow
+seeking steel arrow
+seeking steel arrow
+seeking steel arrow
+seeking mithril arrow
+seeking mithril arrow
+seeking mithril arrow
+seeking mithril arrow
+seeking mithril arrow
+seeking adamant arrow
+seeking adamant arrow
+seeking adamant arrow
+seeking adamant arrow
+seeking adamant arrow
+seeking rune arrow
+seeking rune arrow
+seeking rune arrow
+seeking rune arrow
+seeking rune arrow
+seeking amethyst arrow
+seeking amethyst arrow
+seeking amethyst arrow
+seeking amethyst arrow
+seeking amethyst arrow
+seeking dragon arrow
+seeking dragon arrow
+seeking dragon arrow
+seeking dragon arrow
+seeking dragon arrow
+seeking broad arrows
+seeking broad arrows
+seeking broad arrows
+seeking broad arrows
+seeking broad arrows
+sap-treated logs
+sap-treated magic logs
+sap-treated yew logs
+sap-treated maple logs
+sap-treated willow logs
+sap-treated oak logs
+sap-treated redwood logs
+leechfin
+blood sac
+letvek
+dull ancient medal
+stymphike tartare
+rotten stymphike tartare
+supplies
+crimson kisten
+noted crimson kisten
+elder venator fang
+etched elder venator fang
+noted etched elder venator fang
+necklace of rupture
+noted necklace of rupture
+maggot marquess
+dummy stymphike feather
+noted dummy stymphike feather
+stymphike feather
+stymphike carcass
+makeshift spear
+orikalkum gravel
+grapevine
+venator fang
+venator tooth
+maggot egg
+maggot egg
+maggot egg
+maggot egg
+maggot egg
+maggot egg
+tarnished longsword
+tarnished spear
+tarnished 2h sword
+tarnished battleaxe
+tarnished halberd
+tarnished ring
+tarnished bracelet
+tarnished necklace
+tarnished amulet
+venator heart
+dried out venator heart
+squire's journal
+from misthalin to morytania
+sarl's journal
+scruffy notebook
+pious proceedings
+the life of friar
+essiandar's notes
+ivandis' writings
+diamond sickle (b)
+enchanted diamond sickle (b)
+blisterwood sickle (e)
+tome of experience
+blisterwood stake
+hallowed flail
+ivan strom
+veliaf hurtz
+sunspear
+full moon key
+half moon key
+crescent moon key
+gibbous moon key
+new moon key
+gilded key
+solid key
+drakan emblem
+left crest half
+right crest half
+full crest
+ancient symbol
+ancient shield
+shield with symbol
+ornate knife
+ornate skull
+ornate hourglass
+explosive barrel
+small clock hand
+large clock hand
+poem scroll
+sink plug
+broken pipe
+sharp knife
+tongs
+syringe needle
+syringe barrel
+syringe plunger
+empty syringe
+full syringe
+venator stomach
+sword
+spear
+battleaxe
+mace
+lockbox
+ancestral dagger
+grid note
+mysterious book
+fancy gem
+fancy gem
+gilded book
+vampyre book
+cloudy grey potion
+weightless black potion
+thick red potion
+cold bluish-white potion
+lab notes
+chemical vial
+old cog
+jovkai key
+loop half of key
+tooth half of key
+myrmel key
+shadum key
+vitur key
+trapdoor key
+bolt cutters
+crank wheel
+dusty book
+spine
+dead blood serpent
+serpent rope
+tick
+tattered journal
+rotten diary
+amitire leaves
+amitire stew
+hallowed marks
+healing potion
+silvthrill ballista
+silvthrill javelin
+mysterious jerky
+putrid sticky potion (4)
+putrid sticky potion (3)
+putrid sticky potion (2)
+putrid sticky potion (1)
+foul chunky potion (4)
+foul chunky potion (3)
+foul chunky potion (2)
+foul chunky potion (1)
+rancid slimy potion (4)
+rancid slimy potion (3)
+rancid slimy potion (2)
+rancid slimy potion (1)
+rank frothy potion (4)
+rank frothy potion (3)
+rank frothy potion (2)
+rank frothy potion (1)
+jar of congealed blood
+smelly kebab
+raw impaler meat
+noted raw impaler meat
+stymphike
+venator
+ancient sceptre (l) (broken)
+ancient sceptre (l) (mangled)
+letvek in a bucket
+wyrmscraig goat hoof
+noble robe top
+noted noble robe top
+noble robe top
+noted noble robe top
+noble robe top
+noted noble robe top
+noble robe top
+noted noble robe top
+noble robe top
+noted noble robe top
+noble robe top
+noted noble robe top
+noble robe top
+noted noble robe top
+wyrmscraig noble skirt
+noted wyrmscraig noble skirt
+wyrmscraig noble skirt
+noted wyrmscraig noble skirt
+wyrmscraig noble skirt
+noted wyrmscraig noble skirt
+wyrmscraig noble skirt
+noted wyrmscraig noble skirt
+wyrmscraig noble skirt
+noted wyrmscraig noble skirt
+wyrmscraig noble skirt
+noted wyrmscraig noble skirt
+wyrmscraig noble skirt
+noted wyrmscraig noble skirt
+wyrmscraig shoes
+noted wyrmscraig shoes
+wyrmscraig boots
+noted wyrmscraig boots
+wyrmscraig villager robe top
+noted wyrmscraig villager robe top
+wyrmscraig villager robe top
+noted wyrmscraig villager robe top
+wyrmscraig villager robe top
+noted wyrmscraig villager robe top
+wyrmscraig villager robe top
+noted wyrmscraig villager robe top
+wyrmscraig villager robe top
+noted wyrmscraig villager robe top
+wyrmscraig villager robe top
+noted wyrmscraig villager robe top
+wyrmscraig villager robe top
+noted wyrmscraig villager robe top
+wyrmscraig villager robe top
+noted wyrmscraig villager robe top
+wyrmscraig villager robe bottom
+noted wyrmscraig villager robe bottom
+wyrmscraig villager robe bottom
+noted wyrmscraig villager robe bottom
+wyrmscraig villager robe bottom
+noted wyrmscraig villager robe bottom
+wyrmscraig villager robe bottom
+noted wyrmscraig villager robe bottom
+wyrmscraig villager robe bottom
+noted wyrmscraig villager robe bottom
+wyrmscraig villager robe bottom
+noted wyrmscraig villager robe bottom
+wyrmscraig villager robe bottom
+noted wyrmscraig villager robe bottom
+wyrmscraig villager robe bottom
+noted wyrmscraig villager robe bottom
+wyrmscraig villager robe bottom
+noted wyrmscraig villager robe bottom
+wyrmscraig villager robe bottom
+noted wyrmscraig villager robe bottom
+wyrmscraig villager robe bottom
+noted wyrmscraig villager robe bottom
+wyrmscraig villager robe bottom
+noted wyrmscraig villager robe bottom
+wyrmscraig villager robe bottom
+noted wyrmscraig villager robe bottom
+wyrmscraig villager robe bottom
+noted wyrmscraig villager robe bottom
+wyrmscraig villager robe top
+noted wyrmscraig villager robe top
+wyrmscraig villager robe top
+noted wyrmscraig villager robe top
+wyrmscraig villager robe top
+noted wyrmscraig villager robe top
+wyrmscraig villager robe top
+noted wyrmscraig villager robe top
+wyrmscraig villager robe top
+noted wyrmscraig villager robe top
+wyrmscraig villager robe top
+noted wyrmscraig villager robe top
+wyrmscraig villager robe top
+noted wyrmscraig villager robe top
+wyrmscraig villager skirt
+noted wyrmscraig villager skirt
+wyrmscraig villager skirt
+noted wyrmscraig villager skirt
+wyrmscraig villager skirt
+noted wyrmscraig villager skirt
+wyrmscraig villager skirt
+noted wyrmscraig villager skirt
+wyrmscraig villager skirt
+noted wyrmscraig villager skirt
+wyrmscraig villager skirt
+noted wyrmscraig villager skirt
+wyrmscraig villager skirt
+noted wyrmscraig villager skirt
+wyrmscraig villager work skirt
+noted wyrmscraig villager work skirt
+wyrmscraig villager work skirt
+noted wyrmscraig villager work skirt
+wyrmscraig villager work skirt
+noted wyrmscraig villager work skirt
+wyrmscraig villager work skirt
+noted wyrmscraig villager work skirt
+wyrmscraig villager work skirt
+noted wyrmscraig villager work skirt
+wyrmscraig villager work skirt
+noted wyrmscraig villager work skirt
+wyrmscraig villager work skirt
+noted wyrmscraig villager work skirt
+wyrmscraig villager work skirt
+noted wyrmscraig villager work skirt
+wooden spikes
+wyrmscraig goat fur
+noted wyrmscraig goat fur
+sunstone
+sunstone core
+jeweller's chisel
+golem crafting
+hallowfell
+noted hallowfell
+jar of light
+sunstone crystal
+ardeaglais teleport
+mr mcgroot
+aggy
+large hat
+worn journal
+scrawled notebook
+scorched note
+observations
+warning note
+golem primer
+ancient sunstone core
+staircase key
+dull sunstone core
+final letter
+wyrmscraig
+fairy tale quest lamp
+noted archaic emblem (tier 5)
+vampyre snail shell
+vampyre snelm
+shark lure pack
+noted shark lure pack
+sawmill coupon (teak plank)
+sawmill coupon (mahogany plank)
+sawmill coupon (camphor plank)
+sawmill coupon (ironwood plank)
+courier reward bag
+tiny port reward bag (cairn isle)
+small port reward bag (cairn isle)
+medium port reward bag (cairn isle)
+large port reward bag (cairn isle)
+huge port reward bag (cairn isle)
+tiny port reward bag (entrana)
+small port reward bag (entrana)
+medium port reward bag (entrana)
+large port reward bag (entrana)
+huge port reward bag (entrana)
+tiny port reward bag (neitiznot)
+small port reward bag (neitiznot)
+medium port reward bag (neitiznot)
+large port reward bag (neitiznot)
+huge port reward bag (neitiznot)
+tiny port reward bag (jatizso)
+small port reward bag (jatizso)
+medium port reward bag (jatizso)
+large port reward bag (jatizso)
+huge port reward bag (jatizso)
+tiny port reward bag (hosidius)
+small port reward bag (hosidius)
+medium port reward bag (hosidius)
+large port reward bag (hosidius)
+huge port reward bag (hosidius)
+tiny port reward bag (sunset coast)
+small port reward bag (sunset coast)
+medium port reward bag (sunset coast)
+large port reward bag (sunset coast)
+huge port reward bag (sunset coast)
+tiny port reward bag (piscatoris)
+small port reward bag (piscatoris)
+medium port reward bag (piscatoris)
+large port reward bag (piscatoris)
+huge port reward bag (piscatoris)
+tiny port reward bag (etceteria)
+small port reward bag (etceteria)
+medium port reward bag (etceteria)
+large port reward bag (etceteria)
+huge port reward bag (etceteria)
+tiny port reward bag (ruins of unkah)
+small port reward bag (ruins of unkah)
+medium port reward bag (ruins of unkah)
+large port reward bag (ruins of unkah)
+huge port reward bag (ruins of unkah)
+tiny port reward bag (lunar isle)
+small port reward bag (lunar isle)
+medium port reward bag (lunar isle)
+large port reward bag (lunar isle)
+huge port reward bag (lunar isle)
+tiny port reward bag (corsair cove)
+small port reward bag (corsair cove)
+medium port reward bag (corsair cove)
+large port reward bag (corsair cove)
+huge port reward bag (corsair cove)
+tiny port reward bag (prifddinas)
+small port reward bag (prifddinas)
+medium port reward bag (prifddinas)
+large port reward bag (prifddinas)
+huge port reward bag (prifddinas)
+tiny port reward bag (lands end)
+small port reward bag (lands end)
+medium port reward bag (lands end)
+large port reward bag (lands end)
+huge port reward bag (lands end)
+tiny port reward bag (aldarin)
+small port reward bag (aldarin)
+medium port reward bag (aldarin)
+large port reward bag (aldarin)
+huge port reward bag (aldarin)
+tiny port reward bag (summer shore)
+small port reward bag (summer shore)
+medium port reward bag (summer shore)
+large port reward bag (summer shore)
+huge port reward bag (summer shore)
+tiny port reward bag (musa point)
+small port reward bag (musa point)
+medium port reward bag (musa point)
+large port reward bag (musa point)
+huge port reward bag (musa point)
+tiny port reward bag (rellekka)
+small port reward bag (rellekka)
+medium port reward bag (rellekka)
+large port reward bag (rellekka)
+huge port reward bag (rellekka)
+tiny port reward bag (void knights outpost)
+small port reward bag (void knights outpost)
+medium port reward bag (void knights outpost)
+large port reward bag (void knights outpost)
+huge port reward bag (void knights outpost)
+tiny port reward bag (the pandemonium)
+small port reward bag (the pandemonium)
+medium port reward bag (the pandemonium)
+large port reward bag (the pandemonium)
+huge port reward bag (the pandemonium)
+tiny port reward bag (red rock)
+small port reward bag (red rock)
+medium port reward bag (red rock)
+large port reward bag (red rock)
+huge port reward bag (red rock)
+tiny port reward bag (brimhaven)
+small port reward bag (brimhaven)
+medium port reward bag (brimhaven)
+large port reward bag (brimhaven)
+huge port reward bag (brimhaven)
+tiny port reward bag (port tyras)
+small port reward bag (port tyras)
+medium port reward bag (port tyras)
+large port reward bag (port tyras)
+huge port reward bag (port tyras)
+tiny port reward bag (catherby)
+small port reward bag (catherby)
+medium port reward bag (catherby)
+large port reward bag (catherby)
+huge port reward bag (catherby)
+tiny port reward bag (civitas illa fortis)
+small port reward bag (civitas illa fortis)
+medium port reward bag (civitas illa fortis)
+large port reward bag (civitas illa fortis)
+huge port reward bag (civitas illa fortis)
+tiny port reward bag (ardougne)
+small port reward bag (ardougne)
+medium port reward bag (ardougne)
+large port reward bag (ardougne)
+huge port reward bag (ardougne)
+tiny port reward bag (port khazard)
+small port reward bag (port khazard)
+medium port reward bag (port khazard)
+large port reward bag (port khazard)
+huge port reward bag (port khazard)
+tiny port reward bag (deepfin point)
+small port reward bag (deepfin point)
+medium port reward bag (deepfin point)
+large port reward bag (deepfin point)
+huge port reward bag (deepfin point)
+tiny port reward bag (port sarim)
+small port reward bag (port sarim)
+medium port reward bag (port sarim)
+large port reward bag (port sarim)
+huge port reward bag (port sarim)
+tiny port reward bag (port piscarilius)
+small port reward bag (port piscarilius)
+medium port reward bag (port piscarilius)
+large port reward bag (port piscarilius)
+huge port reward bag (port piscarilius)
+tiny port reward bag (port roberts)
+small port reward bag (port roberts)
+medium port reward bag (port roberts)
+large port reward bag (port roberts)
+huge port reward bag (port roberts)
+tiny port coin bag
+small port coin bag
+medium port coin bag
+large port coin bag
+huge port coin bag
+big red button
+noted big red button
+lanscape coins
+lanscape coins
+lanscape coins
+lanscape coins
+lanscape coins
+lanscape coins
+lanscape coins
+lanscape coins
+lanscape coins
+lanscape coins
+necklace of fangs
+noted necklace of fangs
+air diamond
+noted air diamond
+amulet of air
+noted amulet of air
+water sapphire
+noted water sapphire
+amulet of water
+noted amulet of water
+earth emerald
+noted earth emerald
+amulet of earth
+noted amulet of earth
+fire ruby
+noted fire ruby
+amulet of fire
+noted amulet of fire
+elemental amulet
+noted elemental amulet
+labrador
+labrador
+labrador
+chihuahua
+chihuahua
+chihuahua
+border collie
+border collie
+border collie
+corgi
+corgi
+corgi
+greyhound
+greyhound
+greyhound
+husky
+husky
+husky
+pug
+pug
+pug
+samoyed
+samoyed
+samoyed
+bernese mountain dog
+bernese mountain dog
+bernese mountain dog
+shiba
+shiba
+shiba
+spaniel
+spaniel
+spaniel
+yorkie
+yorkie
+yorkie
+labrador puppy
+labrador puppy
+labrador puppy
+husky puppy
+husky puppy
+husky puppy
+chihuahua puppy
+chihuahua puppy
+chihuahua puppy
+border collie puppy
+border collie puppy
+border collie puppy
+corgi puppy
+corgi puppy
+corgi puppy
+greyhound puppy
+greyhound puppy
+greyhound puppy
+pug puppy
+pug puppy
+pug puppy
+samoyed puppy
+samoyed puppy
+samoyed puppy
+bernese mountain dog puppy
+bernese mountain dog puppy
+bernese mountain dog puppy
+shiba puppy
+shiba puppy
+shiba puppy
+spaniel puppy
+spaniel puppy
+spaniel puppy
+yorkie puppy
+yorkie puppy
+yorkie puppy
+shell
+shell
+shell
+shell
+shell
+shell
+shell
+shell
+shell
+weathered rosewood plank
+battered barrel
+sea-soaked bowstring
+instrument
+shell collection
+shell c
+shell d
+shell e
+shell f
+shell g
+shell a
+shell a#
+stray puppy
+stray puppy
+stray puppy
+stray dog
+stuffed dog
+noted daeyalt essence
+coins and platinum
+coins and platinum
+coins and platinum
+imbued ancient cape (deadman)
+noted fighter torso
+noted abyssal tentacle
+imbued ancient max cape
+imbued ancient max hood
+imbued ancient max cape (broken)
+net trap
+imbued ancient cape
+imbued ancient cape (broken)
+imbued ancient cape (l)
+imbued ancient cape
+ancient fabric
+supply crate
+pete's vouchers
+orion
+orion
+xari
+archie
+chubbles
+cole
+zeke
+mimi
+dork
+alliance's message
+archive key
+living record (tier 1)
+living record (tier 2)
+living record (tier 3)
+living record (tier 4)
+living record (tier 5)
+ascension shards
+fragment of living earth
+fragment of deep water
+fragment of whispering wind
+fragment of burning fire
+horn of bran
+noted horn of bran
+ascension crossbows
+noted ascension crossbows
+ascension bolts
+ascension bolts
+ascension bolts
+ascension bolts
+ascension bolts
+diamond ascension bolts
+diamond ascension bolts
+diamond ascension bolts
+diamond ascension bolts
+diamond ascension bolts
+diamond ascension bolts (e)
+diamond ascension bolts (e)
+diamond ascension bolts (e)
+diamond ascension bolts (e)
+diamond ascension bolts (e)
+onyx ascension bolts
+onyx ascension bolts
+onyx ascension bolts
+onyx ascension bolts
+onyx ascension bolts
+onyx ascension bolts (e)
+onyx ascension bolts (e)
+onyx ascension bolts (e)
+onyx ascension bolts (e)
+onyx ascension bolts (e)
+obligator
+obligator (uncharged)
+noted obligator (uncharged)
+rondache
+noted rondache
+archivist's folio (inert)
+archivist's folio
+zorya's tome
+zorya's tome (uncharged)
+noted zorya's tome (uncharged)
+alliance log
+leftovers
+candy onion
+sugar
+molten sugar
+old onion
+vampyre monocle
+vampyre costume top
+vampyre costume bottom
+vampyre costume cape
+antique lamp
+mudfoot
+letter
+newspaper cutting
+human head
+certificate
+amulet of sight
+noted amulet of sight
+painted shortsword
+noted painted shortsword
+painted kiteshield
+noted painted kiteshield
+painted shortbow
+noted painted shortbow
+bee box
+bee hunter's hat
+wasp sting
+killer wasp sting
+brown feather
+black feather
+wasp dart
+killer wasp dart
+bea's supplies
+fresh leaves
+dew-covered branch
+restorative dew
+strong sticks
+pink snelm
+noted pink snelm
+honey buzzard
+black honey buzzard
 marrentill seed
 marrentill seed
 marrentill seed
