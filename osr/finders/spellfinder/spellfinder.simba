@@ -275,7 +275,7 @@ begin
   ForceDirectories(Self.IMAGES_PATH);
 
   if Self.SimTolerance = 0 then
-    Self.SimTolerance := 0.85;
+    Self.SimTolerance := 0.93;
 
   Self.Name := 'SpellFinder';
   AddOnTerminate(@Self.Free);
